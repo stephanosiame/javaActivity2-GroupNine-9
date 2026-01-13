@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class stringTaskFour.java{
+public class stringTaskFour{
     public static void main(String[] args){
         Scanner comparison = new Scanner (System.in);
 
